@@ -7,6 +7,7 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <UIKit/UIAccessibility.h>
 
 @interface ViewController : UIViewController
 
